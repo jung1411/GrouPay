@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GrouPay</string>
+    <string name="_5">5</string>
+    <string name="_141_00">$141.00</string>
+    <string name="shanghai_restaurant_place">Shanghai Restaurant Place</string>
+    <string name="add_group">Add Group</string>
+    <string name="group_name">Group Name</string>
+    <string name="number_of_people">Number of People</string>
+    <string name="cost">Cost($)</string>
+    <string name="expenses">Expenses</string>
+    <string name="shanghai_restaurant">Shanghai Restaurant</string>
+    <string name="_141_20">$141.20</string>
+    <string name="add_expense">+Add Expense</string>
+    <string name="name_of_activity">Name of Activity</string>
+</resources>
